@@ -5,7 +5,7 @@ import Register from "./pages/Register";
 import Dashboard from "./pages/Dashboard";
 import PrivateRoute from "./components/PrivateRoute";
 import 'bootstrap/dist/css/bootstrap.min.css'
-import NavBar from "./components/Navbar";
+import NavBar from "./components/NavBar";
 
 function App() {
   return (
